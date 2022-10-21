@@ -1,0 +1,2 @@
+C:\Users\DELL\source\repos\OnlineExam\OnlineExam\obj\Debug\OnlineExam.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\OnlineExam\OnlineExam\obj\Debug\OnlineExam.csproj.CoreCompileInputs.cache
